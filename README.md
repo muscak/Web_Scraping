@@ -24,4 +24,19 @@ The below fields are stored:
 - Revenue: The total revenue of the movie in USD.
 - URL: TMDB link of the movie.
 
+| **Column** | **Description**                                        |
+|------------|--------------------------------------------------------|
+| ID         | Unique identifier of the movie in TMBD system.         |
+| Title      | English title of the movie. Original title is ignored. |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
+|            |                                                        |
 
