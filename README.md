@@ -1,4 +1,4 @@
-# TMDB Scraping (WIP)
+# TMDB Scraping
 
 ## Objective
 In this project, I aimed to collect the information of the movies with the highest ratings from The Movie Database.
