@@ -10,8 +10,8 @@ The data is collected from [The Movie Database (TMDB)](https://www.themoviedb.or
 ## Dataset
 Only first 20 pages are scraped. Each page has 20 moves. 
 The below fields are stored:
-- ID: Unique identifier of the movie in TMBD system.
-- Title: English title of the movie. Original title is ignored.
+- <ins>ID:</ins> Unique identifier of the movie in TMBD system.
+- **Title:** English title of the movie. Original title is ignored.
 - Director: The director of the movie. If the movie has more than one director, only the firts one listed is saved. 
 - Release_Year: The year that movie is released to the theatres.
 - Original_Lang: The language of the movie.
