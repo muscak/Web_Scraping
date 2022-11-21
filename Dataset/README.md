@@ -12,7 +12,7 @@ The below fields (13 columns) are stored:
 | Release_Year  | The year that movie is released to the theatres.                                                        |
 | Original_Lang | The language of the movie.                                                                              |
 | Main_Genre    | The first genre that is listed in the info.                                                             |
-| Genres        | The all listed genres apart from the first one.                                                         |
+| Genres        | The all listed genres apart from the first one in list format.                                          |
 | Runtime       | Runtime in minutes.                                                                                     |
 | User_Score    | The TMDB score of the movie.                                                                            |
 | Ratings       | The number of ratings of the movie.                                                                     |
