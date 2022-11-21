@@ -5,7 +5,7 @@ In this project, I aimed to collect the information of the movies with the highe
 I will extract data from themoviedb.org site using Python's request library, make this data readable with the BeautifulSoup library, then store it in a DataFrame and save it in a .csv file with the help of the Pandas library.
 
 ## Website
-[themoviedb](https://www.themoviedb.org/movie/top-rated)
+The data is collected from [The Movie Database (TMDB)](https://www.themoviedb.org/) which is a community built movie and TV database. Since my focus was on the top rated movies, I scraped [Top Rated Movies](https://www.themoviedb.org/movie/top-rated) page.
 
 ## Dataset
 Only first 20 pages are scraped. Each page has 20 moves. 
