@@ -1,0 +1,401 @@
+,ID,Title,Director,Release_Year,Original_Lang,Main_Genre,Genres,Runtime,User_Score,Ratings,Budget,Revenue,URL
+0,238,The Godfather,Francis Ford Coppola,1972,English,Drama,['Crime'],175,87.0,16929,6000000,245066411,https://www.themoviedb.org/movie/238-the-godfather
+1,278,The Shawshank Redemption,Frank Darabont,1994,English,Drama,['Crime'],142,87.0,22682,25000000,28341469,https://www.themoviedb.org/movie/278-the-shawshank-redemption
+2,240,The Godfather Part II,Francis Ford Coppola,1974,English,Drama,['Crime'],202,86.0,10265,13000000,102600000,https://www.themoviedb.org/movie/240-the-godfather-part-ii
+3,19404,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,Hindi,Comedy,"['Drama', 'Romance']",190,86.0,3950,13200000,100000000,https://www.themoviedb.org/movie/19404-dilwale-dulhania-le-jayenge
+4,424,Schindler's List,Steven Spielberg,1993,English,Drama,"['History', 'War']",195,86.0,13457,22000000,321365567,https://www.themoviedb.org/movie/424-schindler-s-list
+5,129,Spirited Away,Hayao Miyazaki,2001,Japanese,Animation,"['Family', 'Fantasy']",125,85.0,13566,19000000,274925095,https://www.themoviedb.org/movie/129-spirited-away
+6,389,12 Angry Men,Reginald Rose,1957,English,Drama,[],97,85.0,6800,350000,1000000,https://www.themoviedb.org/movie/389-12-angry-men
+7,372058,Your Name.,Makoto Shinkai,2016,Japanese,Romance,"['Animation', 'Drama']",106,85.0,9234,-,357986087,https://www.themoviedb.org/movie/372058-your-name.
+8,496243,Parasite,Bong Joon-ho,2019,Korean,Comedy,"['Thriller', 'Drama']",133,85.0,14723,11363000,257591776,https://www.themoviedb.org/movie/496243-parasite
+9,497,The Green Mile,Frank Darabont,1999,English,Fantasy,"['Drama', 'Crime']",189,85.0,14635,60000000,286801374,https://www.themoviedb.org/movie/497-the-green-mile
+10,155,The Dark Knight,Christopher Nolan,2008,English,Drama,"['Action', 'Crime', 'Thriller']",152,85.0,28606,185000000,1004558444,https://www.themoviedb.org/movie/155-the-dark-knight
+11,724089,Gabriel's Inferno: Part II,Tosca Musk,2020,English,Romance,[],105,85.0,1442,-,-,https://www.themoviedb.org/movie/724089-gabriel-s-inferno:-part-ii
+12,696374,Gabriel's Inferno,Tosca Musk,2020,English,Romance,[],122,85.0,2298,-,-,https://www.themoviedb.org/movie/696374-gabriel-s-inferno
+13,553512,Burn the Stage: The Movie,Park Jun-soo,2018,Korean,Music,[],85,85.0,371,-,-,https://www.themoviedb.org/movie/553512-burn-the-stage:-the-movie
+14,680,Pulp Fiction,Quentin Tarantino,1994,English,Thriller,['Crime'],154,85.0,24081,8000000,214179088,https://www.themoviedb.org/movie/680-pulp-fiction
+15,611291,Bring the Soul: The Movie,Park Jun-soo,2019,Korean,Music,['Documentary'],105,85.0,386,-,-,https://www.themoviedb.org/movie/611291-bring-the-soul:-the-movie
+16,429,"The Good, the Bad and the Ugly",Sergio Leone,1966,Italian,Western,[],161,85.0,6983,1200000,25253887,"https://www.themoviedb.org/movie/429-the-good,-the-bad-and-the-ugly"
+17,13,Forrest Gump,Robert Zemeckis,1994,English,Comedy,"['Drama', 'Romance']",142,85.0,23620,55000000,677387716,https://www.themoviedb.org/movie/13-forrest-gump
+18,122,The Lord of the Rings: The Return of the King,Peter Jackson,2003,English,Adventure,"['Fantasy', 'Action']",201,85.0,20561,94000000,1118888979,https://www.themoviedb.org/movie/122-the-lord-of-the-rings:-the-return-of-the-king
+19,761053,Gabriel's Inferno: Part III,Tosca Musk,2020,English,Romance,['Comedy'],105,85.0,993,-,-,https://www.themoviedb.org/movie/761053-gabriel-s-inferno:-part-iii
+20,769,GoodFellas,Martin Scorsese,1990,English,Drama,['Crime'],145,85.0,10679,25000000,46835000,https://www.themoviedb.org/movie/769-goodfellas
+21,11216,Cinema Paradiso,Giuseppe Tornatore,1988,Italian,Drama,['Romance'],124,85.0,3516,5000000,11990401,https://www.themoviedb.org/movie/11216-cinema-paradiso
+22,637,Life Is Beautiful,Roberto Benigni,1997,Italian,Comedy,['Drama'],116,85.0,11456,20000000,230098753,https://www.themoviedb.org/movie/637-life-is-beautiful
+23,346,Seven Samurai,Akira Kurosawa,1954,Japanese,Action,['Drama'],207,85.0,2848,2000000,346300,https://www.themoviedb.org/movie/346-seven-samurai
+24,539,Psycho,Alfred Hitchcock,1960,English,Horror,"['Drama', 'Thriller']",109,84.0,8575,806947,50000000,https://www.themoviedb.org/movie/539-psycho
+25,12477,Grave of the Fireflies,Isao Takahata,1988,Japanese,Animation,"['Drama', 'War']",89,84.0,4375,3700000,516962,https://www.themoviedb.org/movie/12477-grave-of-the-fireflies
+26,311,Once Upon a Time in America,Sergio Leone,1984,English,Drama,['Crime'],229,84.0,4425,30000000,5472914,https://www.themoviedb.org/movie/311-once-upon-a-time-in-america
+27,14537,Harakiri,Masaki Kobayashi,1962,Japanese,Action,"['Drama', 'History']",135,84.0,695,-,-,https://www.themoviedb.org/movie/14537-harakiri
+28,255709,Hope,Lee Joon-ik,2013,Korean,Drama,['Family'],122,84.0,455,-,-,https://www.themoviedb.org/movie/255709-hope
+29,550,Fight Club,David Fincher,1999,English,Drama,"['Thriller', 'Comedy']",139,84.0,25200,63000000,100853753,https://www.themoviedb.org/movie/550-fight-club
+30,510,One Flew Over the Cuckoo's Nest,Miloš Forman,1975,English,Drama,[],133,84.0,8965,3000000,108981275,https://www.themoviedb.org/movie/510-one-flew-over-the-cuckoo-s-nest
+31,40096,A Dog's Will,Guel Arraes,2000,Portuguese,Comedy,"['Drama', 'Fantasy']",104,84.0,930,-,4903192,https://www.themoviedb.org/movie/40096-a-dog-s-will
+32,164558,One Direction: This Is Us,Morgan Spurlock,2013,English,Documentary,['Music'],92,84.0,934,10000000,68500000,https://www.themoviedb.org/movie/164558-one-direction:-this-is-us
+33,598,City of God,Paulo Lins,2002,Portuguese,Drama,['Crime'],130,84.0,6100,3300000,30641770,https://www.themoviedb.org/movie/598-city-of-god
+34,324857,Spider-Man: Into the Spider-Verse,Rodney Rothman,2018,English,Action,"['Adventure', 'Animation', 'ScienceFiction']",117,84.0,11967,90000000,375540831,https://www.themoviedb.org/movie/324857-spider-man:-into-the-spider-verse
+35,92321,Hotarubi no Mori e,Takahiro Omori,2011,Japanese,Romance,"['Animation', 'Fantasy']",45,84.0,856,-,-,https://www.themoviedb.org/movie/92321-hotarubi-no-mori-e
+36,378064,A Silent Voice: The Movie,Naoko Yamada,2016,Japanese,Animation,['Drama'],130,84.0,3172,-,30156463,https://www.themoviedb.org/movie/378064-a-silent-voice:-the-movie
+37,4935,Howl's Moving Castle,Hayao Miyazaki,2004,Japanese,Fantasy,"['Animation', 'Adventure']",119,84.0,7752,24000000,236049757,https://www.themoviedb.org/movie/4935-howl-s-moving-castle
+38,1891,The Empire Strikes Back,Irvin Kershner,1980,English,Adventure,"['Action', 'ScienceFiction']",124,84.0,14757,18000000,538400000,https://www.themoviedb.org/movie/1891-the-empire-strikes-back
+39,568300,BTS World Tour: Love Yourself in Seoul,Son Sung-deuk,2019,Korean,Music,[],113,84.0,383,-,-,https://www.themoviedb.org/movie/568300-bts-world-tour:-love-yourself-in-seoul
+40,120,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,English,Adventure,"['Fantasy', 'Action']",179,84.0,21811,93000000,871368364,https://www.themoviedb.org/movie/120-the-lord-of-the-rings:-the-fellowship-of-the-ring
+41,18491,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,1997,Japanese,Drama,"['Animation', 'ScienceFiction', 'Action']",87,84.0,1177,-,20000000,https://www.themoviedb.org/movie/18491-neon-genesis-evangelion:-the-end-of-evangelion
+42,157336,Interstellar,Christopher Nolan,2014,English,Adventure,"['Drama', 'ScienceFiction']",169,84.0,29824,165000000,701729206,https://www.themoviedb.org/movie/157336-interstellar
+43,423,The Pianist,Roman Polanski,2002,English,Drama,['War'],150,84.0,7640,35000000,120072577,https://www.themoviedb.org/movie/423-the-pianist
+44,599,Sunset Boulevard,Billy Wilder,1950,English,Drama,[],110,84.0,2079,1752000,5000000,https://www.themoviedb.org/movie/599-sunset-boulevard
+45,244786,Whiplash,Damien Chazelle,2014,English,Drama,['Music'],107,84.0,12746,3300000,13092000,https://www.themoviedb.org/movie/244786-whiplash
+46,121,The Lord of the Rings: The Two Towers,Peter Jackson,2002,English,Adventure,"['Fantasy', 'Action']",179,84.0,18953,79000000,926287400,https://www.themoviedb.org/movie/121-the-lord-of-the-rings:-the-two-towers
+47,283566,Evangelion: 3.0+1.0 Thrice Upon a Time,Hideaki Anno,2021,Japanese,Animation,"['Action', 'ScienceFiction', 'Drama']",155,84.0,584,-,92246218,https://www.themoviedb.org/movie/283566-evangelion:-3.0+1.0-thrice-upon-a-time
+48,567,Rear Window,Cornell Woolrich,1954,English,Thriller,['Mystery'],112,84.0,5430,1000000,37034514,https://www.themoviedb.org/movie/567-rear-window
+49,73,American History X,Tony Kaye,1998,English,Drama,[],119,84.0,9979,20000000,23875127,https://www.themoviedb.org/movie/73-american-history-x
+50,20334,The Shop Around the Corner,Ernst Lubitsch,1940,English,Comedy,"['Drama', 'Romance']",99,84.0,552,-,-,https://www.themoviedb.org/movie/20334-the-shop-around-the-corner
+51,3782,Ikiru,Akira Kurosawa,1952,Japanese,Drama,[],143,84.0,850,-,55240,https://www.themoviedb.org/movie/3782-ikiru
+52,27205,Inception,Christopher Nolan,2010,English,Action,"['ScienceFiction', 'Adventure']",148,84.0,32626,160000000,825532764,https://www.themoviedb.org/movie/27205-inception
+53,807,Se7en,David Fincher,1995,English,Crime,"['Mystery', 'Thriller']",127,84.0,17909,33000000,327311859,https://www.themoviedb.org/movie/807-se7en
+54,914,The Great Dictator,Charlie Chaplin,1940,English,Comedy,['War'],125,84.0,2749,2000000,11000000,https://www.themoviedb.org/movie/914-the-great-dictator
+55,644479,Dedicated to my ex,Jorge Ulloa,2019,Spanish;,Drama,['Comedy'],94,84.0,474,-,1315376,https://www.themoviedb.org/movie/644479-dedicated-to-my-ex
+56,774372,"ariana grande: excuse me, i love you",Paul Dugdale,2020,English,Music,['Documentary'],97,83.0,311,-,-,"https://www.themoviedb.org/movie/774372-ariana-grande:-excuse-me,-i-love-you"
+57,128,Princess Mononoke,Hayao Miyazaki,1997,Japanese,Adventure,"['Fantasy', 'Animation']",134,83.0,6632,26500000,159414369,https://www.themoviedb.org/movie/128-princess-mononoke
+58,361743,Top Gun: Maverick,Jim Cash,2022,English,Action,['Drama'],131,83.0,4793,170000000,1482656000,https://www.themoviedb.org/movie/361743-top-gun:-maverick
+59,901,City Lights,Charlie Chaplin,1931,English,Comedy,"['Drama', 'Romance']",87,83.0,1737,1500000,4250000,https://www.themoviedb.org/movie/901-city-lights
+60,632632,Given,Hikaru Yamaguchi,2020,Japanese,Animation,"['Drama', 'Music', 'Romance']",60,83.0,332,-,-,https://www.themoviedb.org/movie/632632-given
+61,441130,Wolfwalkers,Ross Stewart,2020,English,Animation,"['Family', 'Adventure', 'Fantasy']",103,83.0,856,12000000,1266570,https://www.themoviedb.org/movie/441130-wolfwalkers
+62,740996,BLACKPINK: Light Up the Sky,Caroline Suh,2020,Korean,Documentary,['Music'],79,83.0,438,-,-,https://www.themoviedb.org/movie/740996-blackpink:-light-up-the-sky
+63,274,The Silence of the Lambs,Jonathan Demme,1991,English,Crime,"['Drama', 'Thriller']",119,83.0,13912,19000000,272742922,https://www.themoviedb.org/movie/274-the-silence-of-the-lambs
+64,12493,High and Low,Akira Kurosawa,1963,Japanese,Crime,"['Drama', 'Mystery', 'Thriller']",142,83.0,640,250000,-,https://www.themoviedb.org/movie/12493-high-and-low
+65,101,Léon: The Professional,Luc Besson,1994,English,Crime,"['Drama', 'Action']",111,83.0,12650,16000000,45284974,https://www.themoviedb.org/movie/101-léon:-the-professional
+66,3082,Modern Times,Charlie Chaplin,1936,English,Comedy,['Drama'],87,83.0,3099,1500000,-,https://www.themoviedb.org/movie/3082-modern-times
+67,207,Dead Poets Society,Peter Weir,1989,English,Drama,[],128,83.0,9535,16400000,235860116,https://www.themoviedb.org/movie/207-dead-poets-society
+68,630566,Clouds,Kara Holden,2020,English,Music,"['Drama', 'Romance']",121,83.0,886,-,-,https://www.themoviedb.org/movie/630566-clouds
+69,635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,Haruo Sotozaki,2020,Japanese,Animation,"['Action', 'Adventure', 'Fantasy']",117,83.0,2789,15800000,503063688,https://www.themoviedb.org/movie/635302-demon-slayer--kimetsu-no-yaiba--the-movie:-mugen-train
+70,527641,Five Feet Apart,Justin Baldoni,2019,English,Romance,['Drama'],116,83.0,4951,7000000,91500000,https://www.themoviedb.org/movie/527641-five-feet-apart
+71,25237,Come and See,Elem Klimov,1985,Russian,Drama,['War'],142,83.0,1021,-,168817,https://www.themoviedb.org/movie/25237-come-and-see
+72,335,Once Upon a Time in the West,Sergio Leone,1968,Italian,Drama,['Western'],166,83.0,3567,5000000,5380118,https://www.themoviedb.org/movie/335-once-upon-a-time-in-the-west
+73,447362,Life in a Year,Mitja Okorn,2020,English,Drama,['Romance'],107,83.0,1169,-,-,https://www.themoviedb.org/movie/447362-life-in-a-year
+74,762975,Purple Hearts,Elizabeth Allen Rosenbaum,2022,English,Romance,['Drama'],122,83.0,1704,-,-,https://www.themoviedb.org/movie/762975-purple-hearts
+75,105,Back to the Future,Robert Zemeckis,1985,English,Adventure,"['Comedy', 'ScienceFiction']",116,83.0,17177,19000000,381109762,https://www.themoviedb.org/movie/105-back-to-the-future
+76,556574,Hamilton,Thomas Kail,2020,English,History,['Drama'],160,83.0,1039,-,-,https://www.themoviedb.org/movie/556574-hamilton
+77,810693,Jujutsu Kaisen 0,Sunghoo Park,2021,Japanese,Animation,"['Action', 'Fantasy']",105,83.0,667,-,161577527,https://www.themoviedb.org/movie/810693-jujutsu-kaisen-0
+78,975,Paths of Glory,Stanley Kubrick,1957,English,Drama,['War'],88,83.0,2317,935000,-,https://www.themoviedb.org/movie/975-paths-of-glory
+79,29259,Le Trou,Jacques Becker,1960,French,Crime,"['Drama', 'Thriller', 'History']",132,83.0,350,-,33187,https://www.themoviedb.org/movie/29259-le-trou
+80,618344,Justice League Dark: Apokolips War,Mairghread Scott,2020,English,Animation,"['Action', 'ScienceFiction']",90,83.0,1240,-,-,https://www.themoviedb.org/movie/618344-justice-league-dark:-apokolips-war
+81,10494,Perfect Blue,Satoshi Kon,1997,Japanese,Animation,['Thriller'],81,83.0,1858,830000,112536,https://www.themoviedb.org/movie/10494-perfect-blue
+82,28,Apocalypse Now,Francis Ford Coppola,1979,English,Drama,['War'],147,83.0,6831,31500000,150000000,https://www.themoviedb.org/movie/28-apocalypse-now
+83,299534,Avengers: Endgame,Stan Lee,2019,English,Adventure,"['ScienceFiction', 'Action']",181,83.0,22124,356000000,2797800564,https://www.themoviedb.org/movie/299534-avengers:-endgame
+84,637920,Miracle in Cell No. 7,Mehmet Ada Öztekin,2019,Turkish,Drama,[],132,83.0,4038,-,19289062,https://www.themoviedb.org/movie/637920-miracle-in-cell-no.-7
+85,572154,Rascal Does Not Dream of a Dreaming Girl,Souichi Masui,2019,Japanese,Animation,"['Comedy', 'Romance', 'Drama', 'Fantasy']",90,83.0,408,-,-,https://www.themoviedb.org/movie/572154-rascal-does-not-dream-of-a-dreaming-girl
+86,42269,We All Loved Each Other So Much,Ettore Scola,1974,Italian,Drama,['Comedy'],124,83.0,440,-,-,https://www.themoviedb.org/movie/42269-we-all-loved-each-other-so-much
+87,537061,Steven Universe: The Movie,Rebecca Sugar,2019,English,Animation,"['Family', 'Fantasy', 'TVMovie', 'ScienceFiction', 'Adventure', 'Music']",82,83.0,696,-,-,https://www.themoviedb.org/movie/537061-steven-universe:-the-movie
+88,16672,Woman in the Dunes,Kōbō Abe,1964,Japanese,Drama,['Thriller'],147,83.0,308,-,-,https://www.themoviedb.org/movie/16672-woman-in-the-dunes
+89,77338,The Intouchables,Éric Toledano,2011,French,Drama,['Comedy'],113,83.0,15162,13000000,426588510,https://www.themoviedb.org/movie/77338-the-intouchables
+90,670,Oldboy,Park Chan-wook,2003,Korean,Drama,"['Thriller', 'Mystery', 'Action']",120,83.0,7063,3000000,15194593,https://www.themoviedb.org/movie/670-oldboy
+91,265177,Mommy,Xavier Dolan,2014,French,Drama,[],138,83.0,2386,4900000,3494070,https://www.themoviedb.org/movie/265177-mommy
+92,10376,The Legend of 1900,Giuseppe Tornatore,1998,Italian,Drama,"['Music', 'Romance']",170,83.0,1929,9000000,21057208,https://www.themoviedb.org/movie/10376-the-legend-of-1900
+93,299536,Avengers: Infinity War,Anthony Russo,2018,English,Adventure,"['Action', 'ScienceFiction']",149,83.0,25755,300000000,2046239637,https://www.themoviedb.org/movie/299536-avengers:-infinity-war
+94,1585,It's a Wonderful Life,Frank Capra,1946,English,Drama,"['Family', 'Fantasy']",130,83.0,3483,3180000,9644124,https://www.themoviedb.org/movie/1585-it-s-a-wonderful-life
+95,518068,Along with the Gods: The Last 49 Days,Kim Yong-hwa,2018,Korean,Drama,"['Fantasy', 'Action']",141,83.0,419,18300000,112790210,https://www.themoviedb.org/movie/518068-along-with-the-gods:-the-last-49-days
+96,290098,The Handmaiden,Park Chan-wook,2016,Korean,Thriller,"['Drama', 'Romance']",145,83.0,2898,8575000,37767206,https://www.themoviedb.org/movie/290098-the-handmaiden
+97,522924,The Art of Racing in the Rain,Simon Curtis,2019,English,Comedy,"['Drama', 'Romance']",109,83.0,1132,18000000,33766787,https://www.themoviedb.org/movie/522924-the-art-of-racing-in-the-rain
+98,508965,Klaus,Sergio Pablos,2019,English,Animation,"['Family', 'Adventure', 'Comedy', 'Fantasy']",96,83.0,3103,-,-,https://www.themoviedb.org/movie/508965-klaus
+99,8587,The Lion King,Roger Allers,1994,English,Family,"['Animation', 'Drama']",89,83.0,15928,45000000,763455561,https://www.themoviedb.org/movie/8587-the-lion-king
+100,18148,Tokyo Story,Yasujirō Ozu,1953,Japanese,Drama,[],137,83.0,806,-,-,https://www.themoviedb.org/movie/18148-tokyo-story
+101,797,Persona,Ingmar Bergman,1966,Swedish,Drama,[],83,83.0,1714,-,-,https://www.themoviedb.org/movie/797-persona
+102,476292,Maquia: When the Promised Flower Blooms,Mari Okada,2018,Japanese,Animation,"['Fantasy', 'Romance', 'Drama']",115,83.0,493,-,4300000,https://www.themoviedb.org/movie/476292-maquia:-when-the-promised-flower-blooms
+103,532067,KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson,Takaomi Kanasaki,2019,Japanese,Animation,"['Adventure', 'Comedy', 'Fantasy']",90,83.0,419,-,-,https://www.themoviedb.org/movie/532067-konosuba:-god-s-blessing-on-this-wonderful-world!-legend-of-crimson
+104,592350,My Hero Academia: Heroes Rising,Kohei Horikoshi,2019,Japanese,Animation,"['Action', 'Fantasy', 'Adventure']",104,82.0,983,-,29900850,https://www.themoviedb.org/movie/592350-my-hero-academia:-heroes-rising
+105,24188,Il Sorpasso,Dino Risi,1962,Italian,Drama,['Comedy'],105,82.0,596,-,-,https://www.themoviedb.org/movie/24188-il-sorpasso
+106,490132,Green Book,Peter Farrelly,2018,English,Drama,['Comedy'],130,82.0,9542,23000000,319700000,https://www.themoviedb.org/movie/490132-green-book
+107,791373,Zack Snyder's Justice League,Zack Snyder,2021,English,Action,"['Adventure', 'Fantasy', 'ScienceFiction']",242,82.0,8328,70000000,657900000,https://www.themoviedb.org/movie/791373-zack-snyder-s-justice-league
+108,14002,Baraka,Ron Fricke,1992,English,Documentary,[],97,82.0,483,4000000,-,https://www.themoviedb.org/movie/14002-baraka
+109,803,Night and Fog,Alain Resnais,1955,French,History,"['Documentary', 'War']",32,82.0,362,-,-,https://www.themoviedb.org/movie/803-night-and-fog
+110,313106,Doctor Who: The Day of the Doctor,Nick Hurran,2013,English,ScienceFiction,['Adventure'],77,82.0,661,-,10000000,https://www.themoviedb.org/movie/313106-doctor-who:-the-day-of-the-doctor
+111,110420,Wolf Children,Mamoru Hosoda,2012,Japanese,Animation,"['Drama', 'Family', 'Fantasy']",117,82.0,1878,-,55060661,https://www.themoviedb.org/movie/110420-wolf-children
+112,5156,Bicycle Thieves,Vittorio De Sica,1948,Italian,Drama,[],89,82.0,1944,133000,436655,https://www.themoviedb.org/movie/5156-bicycle-thieves
+113,755812,"Miraculous World: New York, United HeroeZ",Thomas Astruc,2020,French,Animation,"['Family', 'Adventure', 'TVMovie', 'Fantasy', 'Action']",55,82.0,944,-,-,"https://www.themoviedb.org/movie/755812-miraculous-world:-new-york,-united-heroez"
+114,504253,I Want to Eat Your Pancreas,Shinichiro Ushijima,2018,Japanese,Animation,"['Drama', 'Romance']",108,82.0,1110,-,33748006,https://www.themoviedb.org/movie/504253-i-want-to-eat-your-pancreas
+115,284,The Apartment,Billy Wilder,1960,English,Comedy,"['Drama', 'Romance']",125,82.0,1813,3000000,25000000,https://www.themoviedb.org/movie/284-the-apartment
+116,354912,Coco,Lee Unkrich,2017,English,Family,"['Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']",105,82.0,16509,175000000,800526015,https://www.themoviedb.org/movie/354912-coco
+117,185,A Clockwork Orange,Stanley Kubrick,1971,English,ScienceFiction,['Drama'],137,82.0,11094,2200000,26589000,https://www.themoviedb.org/movie/185-a-clockwork-orange
+118,1398,Stalker,Andrei Tarkovsky,1979,Russian,ScienceFiction,['Drama'],162,82.0,1667,120000,-,https://www.themoviedb.org/movie/1398-stalker
+119,694,The Shining,Stanley Kubrick,1980,English,Horror,['Thriller'],144,82.0,15073,19000000,44781695,https://www.themoviedb.org/movie/694-the-shining
+120,37257,Witness for the Prosecution,Billy Wilder,1957,English,Drama,"['Mystery', 'Crime']",116,82.0,1060,3000000,9000000,https://www.themoviedb.org/movie/37257-witness-for-the-prosecution
+121,422,8½,Federico Fellini,1963,Italian,Fantasy,['Drama'],139,82.0,1880,-,-,https://www.themoviedb.org/movie/422-8½
+122,664767,Mortal Kombat Legends: Scorpion's Revenge,Ethan Spaulding,2020,English,Animation,"['Action', 'Fantasy']",80,82.0,1149,-,-,https://www.themoviedb.org/movie/664767-mortal-kombat-legends:-scorpion-s-revenge
+123,490,The Seventh Seal,Ingmar Bergman,1957,Swedish,Fantasy,['Drama'],96,82.0,2455,-,-,https://www.themoviedb.org/movie/490-the-seventh-seal
+124,10098,The Kid,Charlie Chaplin,1921,English,Comedy,['Drama'],68,82.0,1679,250000,2500000,https://www.themoviedb.org/movie/10098-the-kid
+125,16869,Inglourious Basterds,Quentin Tarantino,2009,English,Drama,"['Action', 'Thriller', 'War']",153,82.0,19425,70000000,321457747,https://www.themoviedb.org/movie/16869-inglourious-basterds
+126,426,Vertigo,Alfred Hitchcock,1958,English,Mystery,"['Romance', 'Thriller']",128,82.0,4819,2479000,7797728,https://www.themoviedb.org/movie/426-vertigo
+127,11,Star Wars,George Lucas,1977,English,Adventure,"['Action', 'ScienceFiction']",121,82.0,17918,11000000,775398007,https://www.themoviedb.org/movie/11-star-wars
+128,470044,The Hate U Give,"George Tillman, Jr.",2018,English,Crime,['Drama'],133,82.0,1843,23000000,34934009,https://www.themoviedb.org/movie/470044-the-hate-u-give
+129,26451,Investigation of a Citizen Above Suspicion,Elio Petri,1970,Italian,Drama,['Thriller'],111,82.0,625,-,-,https://www.themoviedb.org/movie/26451-investigation-of-a-citizen-above-suspicion
+130,98,Gladiator,David Franzoni,2000,English,Action,"['Drama', 'Adventure']",155,82.0,15764,103000000,465361176,https://www.themoviedb.org/movie/98-gladiator
+131,2457,Children of Paradise,Marcel Carné,1945,French,Drama,['Romance'],191,82.0,313,-,1457,https://www.themoviedb.org/movie/2457-children-of-paradise
+132,1124,The Prestige,Christopher Nolan,2006,English,Drama,"['Mystery', 'ScienceFiction']",130,82.0,13612,40000000,109676311,https://www.themoviedb.org/movie/1124-the-prestige
+133,857,Saving Private Ryan,Steven Spielberg,1998,English,Drama,"['History', 'War']",169,82.0,13628,70000000,481840909,https://www.themoviedb.org/movie/857-saving-private-ryan
+134,629,The Usual Suspects,Bryan Singer,1995,English,Drama,"['Crime', 'Thriller']",106,82.0,8947,6000000,23341568,https://www.themoviedb.org/movie/629-the-usual-suspects
+135,50014,The Help,Tate Taylor,2011,English,Drama,[],146,82.0,6796,25000000,216639112,https://www.themoviedb.org/movie/50014-the-help
+136,531428,Portrait of a Lady on Fire,Céline Sciamma,2019,French,Drama,['Romance'],120,82.0,1921,5740000,9923127,https://www.themoviedb.org/movie/531428-portrait-of-a-lady-on-fire
+137,663558,New Gods: Nezha Reborn,Zhao Ji,2021,Chinese,Animation,"['Action', 'Fantasy']",116,82.0,305,-,-,https://www.themoviedb.org/movie/663558-new-gods:-nezha-reborn
+138,77,Memento,Christopher Nolan,2000,English,Mystery,['Thriller'],113,82.0,12771,9000000,39723096,https://www.themoviedb.org/movie/77-memento
+139,603,The Matrix,Lana Wachowski,1999,English,Action,['ScienceFiction'],136,82.0,22364,63000000,463517383,https://www.themoviedb.org/movie/603-the-matrix
+140,11324,Shutter Island,Martin Scorsese,2010,English,Drama,"['Thriller', 'Mystery']",138,82.0,20753,80000000,294800000,https://www.themoviedb.org/movie/11324-shutter-island
+141,398818,Call Me by Your Name,Luca Guadagnino,2017,English,Romance,['Drama'],132,82.0,10667,4000000,41063475,https://www.themoviedb.org/movie/398818-call-me-by-your-name
+142,324786,Hacksaw Ridge,Mel Gibson,2016,English,Drama,"['History', 'War']",139,82.0,11633,40000000,175302354,https://www.themoviedb.org/movie/324786-hacksaw-ridge
+143,620683,My Mom is a Character 3,Susana Garcia,2019,Portuguese,Comedy,[],111,82.0,432,2000000,39273021,https://www.themoviedb.org/movie/620683-my-mom-is-a-character-3
+144,399106,Piper,Alan Barillaro,2016,English,Family,['Animation'],6,82.0,1416,-,-,https://www.themoviedb.org/movie/399106-piper
+145,517814,Capernaum,Nadine Labaki,2018,Arabic,Drama,[],126,82.0,1357,4000000,64978931,https://www.themoviedb.org/movie/517814-capernaum
+146,508442,Soul,Pete Docter,2020,English,Animation,"['Family', 'Comedy', 'Fantasy', 'Drama']",101,82.0,8584,150000000,136384442,https://www.themoviedb.org/movie/508442-soul
+147,475557,Joker,Todd Phillips,2019,English,Crime,"['Thriller', 'Drama']",122,82.0,21584,55000000,1074251311,https://www.themoviedb.org/movie/475557-joker
+148,103,Taxi Driver,Martin Scorsese,1976,English,Crime,['Drama'],114,82.0,9986,1300000,28570902,https://www.themoviedb.org/movie/103-taxi-driver
+149,19,Metropolis,Fritz Lang,1927,German,Drama,['ScienceFiction'],149,82.0,2186,1300000,650422,https://www.themoviedb.org/movie/19-metropolis
+150,406997,Wonder,Stephen Chbosky,2017,English,Drama,['Family'],113,82.0,7077,20000000,305937718,https://www.themoviedb.org/movie/406997-wonder
+151,20914,My Friends,Tullio Pinelli,1975,Italian,Comedy,[],140,82.0,603,-,-,https://www.themoviedb.org/movie/20914-my-friends
+152,872,Singin' in the Rain,Betty Comden,1952,English,Comedy,"['Music', 'Romance', 'Drama']",103,82.0,2562,2540800,7200000,https://www.themoviedb.org/movie/872-singin--in-the-rain
+153,289,Casablanca,Michael Curtiz,1942,English,Drama,['Romance'],102,82.0,4455,878000,10462500,https://www.themoviedb.org/movie/289-casablanca
+154,111,Scarface,Brian De Palma,1983,English,Action,"['Crime', 'Drama']",170,82.0,9771,25000000,66023329,https://www.themoviedb.org/movie/111-scarface
+155,1422,The Departed,Martin Scorsese,2006,English,Drama,"['Thriller', 'Crime']",151,82.0,12890,90000000,291465000,https://www.themoviedb.org/movie/1422-the-departed
+156,705,All About Eve,Joseph L. Mankiewicz,1950,English,Drama,[],139,82.0,1262,1400000,8400000,https://www.themoviedb.org/movie/705-all-about-eve
+157,654299,Out of the Clear Blue Sky,Pepe Bojórquez,2019,Spanish;,Comedy,"['Drama', 'Music']",112,82.0,301,-,-,https://www.themoviedb.org/movie/654299-out-of-the-clear-blue-sky
+158,640344,Me Against You: Mr. S's Vendetta,Sofia Scalia,2020,Italian,Comedy,['Family'],64,82.0,453,75000,9500000,https://www.themoviedb.org/movie/640344-me-against-you:-mr.-s-s-vendetta
+159,831827,Far from the Tree,Natalie Nourigat,2021,English,Animation,['Family'],7,82.0,304,-,-,https://www.themoviedb.org/movie/831827-far-from-the-tree
+160,606856,Togo,Ericson Core,2019,English,Adventure,['Family'],113,82.0,1641,-,-,https://www.themoviedb.org/movie/606856-togo
+161,68718,Django Unchained,Quentin Tarantino,2012,English,Drama,['Western'],165,82.0,23257,100000000,425368238,https://www.themoviedb.org/movie/68718-django-unchained
+162,439,La Dolce Vita,Federico Fellini,1960,Italian,Comedy,['Drama'],176,82.0,1565,-,19647000,https://www.themoviedb.org/movie/439-la-dolce-vita
+163,600354,The Father,Florian Zeller,2020,English,Drama,[],97,81.0,2346,6000000,21029340,https://www.themoviedb.org/movie/600354-the-father
+164,100,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,English,Comedy,['Crime'],105,81.0,5676,1350000,28356188,"https://www.themoviedb.org/movie/100-lock,-stock-and-two-smoking-barrels"
+165,11878,Yojimbo,Akira Kurosawa,1961,Japanese,Drama,['Thriller'],110,81.0,1126,-,-,https://www.themoviedb.org/movie/11878-yojimbo
+166,600,Full Metal Jacket,Stanley Kubrick,1987,English,Drama,['War'],117,81.0,8916,30000000,46357676,https://www.themoviedb.org/movie/600-full-metal-jacket
+167,489,Good Will Hunting,Gus Van Sant,1997,English,Drama,[],127,81.0,10092,10000000,225933435,https://www.themoviedb.org/movie/489-good-will-hunting
+168,666,Central Station,Walter Salles,1998,Portuguese,Drama,[],110,81.0,698,2900000,5596708,https://www.themoviedb.org/movie/666-central-station
+169,548,Rashomon,Akira Kurosawa,1950,Japanese,Crime,"['Drama', 'Mystery']",88,81.0,1749,250000,96568,https://www.themoviedb.org/movie/548-rashomon
+170,500,Reservoir Dogs,Quentin Tarantino,1992,English,Crime,['Thriller'],99,81.0,12374,1200000,2859750,https://www.themoviedb.org/movie/500-reservoir-dogs
+171,935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,English,Drama,"['Comedy', 'War']",95,81.0,4709,1800000,9523464,https://www.themoviedb.org/movie/935-dr.-strangelove-or:-how-i-learned-to-stop-worrying-and-love-the-bomb
+172,996,Double Indemnity,Billy Wilder,1944,English,Crime,"['Drama', 'Mystery', 'Thriller']",107,81.0,1440,927262,2500000,https://www.themoviedb.org/movie/996-double-indemnity
+173,348,Alien,Dan O'Bannon,1979,English,Horror,['ScienceFiction'],117,81.0,12219,11000000,104931801,https://www.themoviedb.org/movie/348-alien
+174,992,Sherlock Jr.,Buster Keaton,1924,English,Action,"['Comedy', 'Mystery']",45,81.0,726,-,-,https://www.themoviedb.org/movie/992-sherlock-jr.
+175,15584,Dear Zachary: A Letter to a Son About His Father,Kurt Kuenne,2008,English,Documentary,['Crime'],95,81.0,404,-,-,https://www.themoviedb.org/movie/15584-dear-zachary:-a-letter-to-a-son-about-his-father
+176,614,Wild Strawberries,Ingmar Bergman,1957,Swedish,Drama,[],91,81.0,1333,-,-,https://www.themoviedb.org/movie/614-wild-strawberries
+177,545611,Everything Everywhere All at Once,Daniel Scheinert,2022,English,Action,"['Adventure', 'ScienceFiction']",140,81.0,2246,25000000,99000000,https://www.themoviedb.org/movie/545611-everything-everywhere-all-at-once
+178,24382,Big Deal on Madonna Street,Mario Monicelli,1958,Italian,Comedy,['Crime'],106,81.0,586,-,-,https://www.themoviedb.org/movie/24382-big-deal-on-madonna-street
+179,239,Some Like It Hot,Billy Wilder,1959,English,Comedy,"['Music', 'Romance', 'Crime']",122,81.0,2869,2883848,25000000,https://www.themoviedb.org/movie/239-some-like-it-hot
+180,895,Andrei Rublev,Andrei Tarkovsky,1966,Russian,Drama,['History'],205,81.0,610,-,-,https://www.themoviedb.org/movie/895-andrei-rublev
+181,37165,The Truman Show,Peter Weir,1998,English,Comedy,['Drama'],103,81.0,15440,60000000,264118201,https://www.themoviedb.org/movie/37165-the-truman-show
+182,411088,The Invisible Guest,Oriol Paulo,2017,Spanish;,Drama,"['Mystery', 'Thriller']",107,81.0,3910,4000000,30000000,https://www.themoviedb.org/movie/411088-the-invisible-guest
+183,92060,Michael Jackson's Thriller,John Landis,1983,English,Horror,['Music'],14,81.0,471,1100000,-,https://www.themoviedb.org/movie/92060-michael-jackson-s-thriller
+184,400608,Bo Burnham: Make Happy,Bo Burnham,2016,English,Comedy,['Music'],60,81.0,306,-,-,https://www.themoviedb.org/movie/400608-bo-burnham:-make-happy
+185,615457,Nobody,Ilya Naishuller,2021,English,Action,"['Crime', 'Thriller']",92,81.0,5217,17000000,61779301,https://www.themoviedb.org/movie/615457-nobody
+186,149871,The Tale of The Princess Kaguya,Isao Takahata,2013,Japanese,Animation,"['Drama', 'Fantasy']",137,81.0,1412,49300000,24366656,https://www.themoviedb.org/movie/149871-the-tale-of-the-princess-kaguya
+187,638507,How to Train Your Dragon: Homecoming,Tim Johnson,2019,English,Animation,"['Fantasy', 'Adventure', 'Action', 'Family']",22,81.0,738,-,-,https://www.themoviedb.org/movie/638507-how-to-train-your-dragon:-homecoming
+188,12445,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,English,Fantasy,['Adventure'],130,81.0,17929,125000000,1341511219,https://www.themoviedb.org/movie/12445-harry-potter-and-the-deathly-hallows:-part-2
+189,337404,Cruella,Craig Gillespie,2021,English,Comedy,['Crime'],134,81.0,7672,200000000,233503234,https://www.themoviedb.org/movie/337404-cruella
+190,38288,I corti,Arturo Brachetti,1996,Italian,Comedy,[],120,81.0,329,-,-,https://www.themoviedb.org/movie/38288-i-corti
+191,655,"Paris, Texas",Wim Wenders,1984,English,Drama,[],145,81.0,1356,1746964,2181987,"https://www.themoviedb.org/movie/655-paris,-texas"
+192,652722,In the Arms of an Assassin,Matías Moltrasio,2019,Spanish;,Romance,['Thriller'],101,81.0,302,-,425332,https://www.themoviedb.org/movie/652722-in-the-arms-of-an-assassin
+193,58496,Senna,Asif Kapadia,2010,English,Documentary,[],106,81.0,820,-,8212430,https://www.themoviedb.org/movie/58496-senna
+194,785534,Paper Lives,Can Ulkay,2021,Turkish,Drama,[],96,81.0,304,-,-,https://www.themoviedb.org/movie/785534-paper-lives
+195,832,M,Fritz Lang,1931,German,Drama,"['Action', 'Thriller', 'Crime']",109,81.0,1708,-,-,https://www.themoviedb.org/movie/832-m
+196,265297,The Salt of the Earth,Juliano Ribeiro Salgado,2014,French,Documentary,[],109,81.0,510,-,1059804,https://www.themoviedb.org/movie/265297-the-salt-of-the-earth
+197,843,In the Mood for Love,Wong Kar-wai,2000,Cantonese,Drama,['Romance'],99,81.0,2029,150000,12854953,https://www.themoviedb.org/movie/843-in-the-mood-for-love
+198,38,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,English,ScienceFiction,"['Drama', 'Romance']",108,81.0,12785,20000000,72258126,https://www.themoviedb.org/movie/38-eternal-sunshine-of-the-spotless-mind
+199,397567,Along with the Gods: The Two Worlds,Kim Yong-hwa,2017,Korean,Drama,"['Fantasy', 'Action']",139,81.0,722,18300000,125983972,https://www.themoviedb.org/movie/397567-along-with-the-gods:-the-two-worlds
+200,31225,Paris Is Burning,Jennie Livingston,1991,English,Documentary,[],71,81.0,392,500000,3779620,https://www.themoviedb.org/movie/31225-paris-is-burning
+201,20941,Innocent Voices,Luis Mandoki,2005,Spanish;,Drama,['War'],120,81.0,366,-,837000,https://www.themoviedb.org/movie/20941-innocent-voices
+202,103663,The Hunt,Thomas Vinterberg,2012,Danish,Drama,[],116,81.0,3309,3800000,18309793,https://www.themoviedb.org/movie/103663-the-hunt
+203,7345,There Will Be Blood,Paul Thomas Anderson,2007,English,Drama,[],158,81.0,5406,25000000,77208711,https://www.themoviedb.org/movie/7345-there-will-be-blood
+204,359940,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,2017,English,Crime,['Drama'],115,81.0,8833,15000000,160192031,"https://www.themoviedb.org/movie/359940-three-billboards-outside-ebbing,-missouri"
+205,4348,Pride & Prejudice,Joe Wright,2005,English,Drama,['Romance'],127,81.0,6823,28000000,121147947,https://www.themoviedb.org/movie/4348-pride-&-prejudice
+206,81481,Silenced,Hwang Dong-hyuk,2011,Korean,Drama,[],125,81.0,433,2200000,31500000,https://www.themoviedb.org/movie/81481-silenced
+207,334543,Lion,Garth Davis,2016,English,Drama,[],118,81.0,5873,12000000,140312928,https://www.themoviedb.org/movie/334543-lion
+208,46738,Incendies,Denis Villeneuve,2010,French,Drama,"['War', 'Mystery']",131,81.0,2046,6800000,6788659,https://www.themoviedb.org/movie/46738-incendies
+209,9764,Dersu Uzala,Akira Kurosawa,1975,Russian,Action,"['Adventure', 'Drama']",141,81.0,389,4000000,-,https://www.themoviedb.org/movie/9764-dersu-uzala
+210,147,The 400 Blows,François Truffaut,1959,French,Drama,[],99,81.0,1750,-,-,https://www.themoviedb.org/movie/147-the-400-blows
+211,42229,A Special Day,Ettore Scola,1977,Italian,Drama,['Romance'],106,81.0,544,-,-,https://www.themoviedb.org/movie/42229-a-special-day
+212,9702,Bound by Honor,Taylor Hackford,1993,English,Crime,"['Action', 'Drama', 'Thriller']",190,81.0,983,35000000,-,https://www.themoviedb.org/movie/9702-bound-by-honor
+213,280,Terminator 2: Judgment Day,James Cameron,1991,English,Action,"['Thriller', 'ScienceFiction']",137,81.0,10824,102000000,520000000,https://www.themoviedb.org/movie/280-terminator-2:-judgment-day
+214,780,The Passion of Joan of Arc,Carl Theodor Dreyer,1928,French,Drama,['History'],82,81.0,717,-,-,https://www.themoviedb.org/movie/780-the-passion-of-joan-of-arc
+215,406,La Haine,Mathieu Kassovitz,1995,French,Drama,[],98,81.0,3212,2600000,15300000,https://www.themoviedb.org/movie/406-la-haine
+216,387,Das Boot,Wolfgang Petersen,1981,German,Drama,"['History', 'War']",150,81.0,1775,14000000,85000000,https://www.themoviedb.org/movie/387-das-boot
+217,62,2001: A Space Odyssey,Stanley Kubrick,1968,English,ScienceFiction,"['Mystery', 'Adventure']",149,81.0,9746,12000000,71923560,https://www.themoviedb.org/movie/62-2001:-a-space-odyssey
+218,8422,Rocco and His Brothers,Luchino Visconti,1960,Italian,Crime,['Drama'],178,81.0,449,-,-,https://www.themoviedb.org/movie/8422-rocco-and-his-brothers
+219,1955,The Elephant Man,David Lynch,1980,English,Drama,['History'],124,81.0,2824,5000000,26010864,https://www.themoviedb.org/movie/1955-the-elephant-man
+220,437068,A Taxi Driver,Jang Hoon,2017,Korean,Action,"['Drama', 'History']",138,81.0,718,12820005,81927980,https://www.themoviedb.org/movie/437068-a-taxi-driver
+221,515001,Jojo Rabbit,Taika Waititi,2019,English,Comedy,"['War', 'Drama']",108,81.0,7915,14000000,82468705,https://www.themoviedb.org/movie/515001-jojo-rabbit
+222,449176,"Love, Simon",Greg Berlanti,2018,English,Comedy,"['Drama', 'Romance']",110,81.0,5512,17000000,66316289,"https://www.themoviedb.org/movie/449176-love,-simon"
+223,8392,My Neighbor Totoro,Hayao Miyazaki,1988,Japanese,Fantasy,"['Animation', 'Family']",86,81.0,6487,3700000,45000000,https://www.themoviedb.org/movie/8392-my-neighbor-totoro
+224,146233,Prisoners,Denis Villeneuve,2013,English,Drama,"['Thriller', 'Crime']",153,81.0,9739,46000000,122126687,https://www.themoviedb.org/movie/146233-prisoners
+225,11659,The Best of Youth,Stefano Rulli,2003,Italian,Drama,"['History', 'Romance']",366,81.0,441,-,2693053,https://www.themoviedb.org/movie/11659-the-best-of-youth
+226,10681,WALL·E,Andrew Stanton,2008,English,Animation,"['Family', 'ScienceFiction']",98,81.0,16349,180000000,521311860,https://www.themoviedb.org/movie/10681-wall·e
+227,21634,Prayers for Bobby,Russell Mulcahy,2009,English,Drama,"['History', 'TVMovie']",90,81.0,484,-,-,https://www.themoviedb.org/movie/21634-prayers-for-bobby
+228,11645,Ran,Akira Kurosawa,1985,Japanese,Action,"['Drama', 'History']",160,81.0,1201,11500005,11859533,https://www.themoviedb.org/movie/11645-ran
+229,490003,Won't You Be My Neighbor?,Morgan Neville,2018,English,Documentary,[],95,81.0,446,-,22835787,https://www.themoviedb.org/movie/490003-won-t-you-be-my-neighbor?
+230,381284,Hidden Figures,Theodore Melfi,2016,English,Drama,['History'],127,81.0,8213,25000000,230698791,https://www.themoviedb.org/movie/381284-hidden-figures
+231,458220,Palmer,Fisher Stevens,2021,English,Drama,[],110,81.0,922,-,-,https://www.themoviedb.org/movie/458220-palmer
+232,7347,Elite Squad,José Padilha,2007,Portuguese,Drama,"['Action', 'Crime']",115,81.0,1884,4000000,14759148,https://www.themoviedb.org/movie/7347-elite-squad
+233,89708,Samsara,Ron Fricke,2011,English,Documentary,[],102,81.0,499,4000000,-,https://www.themoviedb.org/movie/89708-samsara
+234,11423,Memories of Murder,Bong Joon-ho,2003,Korean,Crime,"['Drama', 'Thriller']",131,81.0,2937,2800000,26000000,https://www.themoviedb.org/movie/11423-memories-of-murder
+235,120467,The Grand Budapest Hotel,Wes Anderson,2014,English,Comedy,['Drama'],100,81.0,12795,30000000,174600318,https://www.themoviedb.org/movie/120467-the-grand-budapest-hotel
+236,19542,The Red Shoes,Emeric Pressburger,1948,English,Drama,['Romance'],133,81.0,481,500000,-,https://www.themoviedb.org/movie/19542-the-red-shoes
+237,538362,On My Skin,Alessio Cremonini,2018,Italian,Drama,[],100,81.0,1754,-,-,https://www.themoviedb.org/movie/538362-on-my-skin
+238,339877,Loving Vincent,Hugh Welchman,2017,English,Animation,"['Drama', 'Mystery', 'History']",95,81.0,2154,5500000,42187665,https://www.themoviedb.org/movie/339877-loving-vincent
+239,678580,El mesero,Raúl Martínez,2021,Spanish;,Comedy,[],86,81.0,327,-,-,https://www.themoviedb.org/movie/678580-el-mesero
+240,550776,Believe Me: The Abduction of Lisa McVey,Jim Donovan,2018,English,Drama,['TVMovie'],98,81.0,451,-,-,https://www.themoviedb.org/movie/550776-believe-me:-the-abduction-of-lisa-mcvey
+241,400928,Gifted,Marc Webb,2017,English,Drama,['Comedy'],101,81.0,4565,7000000,40343446,https://www.themoviedb.org/movie/400928-gifted
+242,264644,Room,Emma Donoghue,2015,English,Drama,['Thriller'],118,80.0,8245,13000000,35401758,https://www.themoviedb.org/movie/264644-room
+243,610461,"Veinteañera, Divorciada y Fantástica",Noé Santillán-López,2020,Spanish;,Comedy,[],93,80.0,366,-,-,"https://www.themoviedb.org/movie/610461-veinteañera,-divorciada-y-fantástica"
+244,821,Judgment at Nuremberg,Stanley Kramer,1961,English,Drama,"['History', 'War']",179,80.0,600,3000000,10000000,https://www.themoviedb.org/movie/821-judgment-at-nuremberg
+245,19426,Nights of Cabiria,Federico Fellini,1957,Italian,Drama,[],110,80.0,598,-,752045,https://www.themoviedb.org/movie/19426-nights-of-cabiria
+246,1396,Mirror,Andrei Tarkovsky,1975,Russian,Drama,['History'],107,80.0,720,825370,119266,https://www.themoviedb.org/movie/1396-mirror
+247,582,The Lives of Others,Florian Henckel von Donnersmarck,2006,German,Drama,['Thriller'],137,80.0,3069,2000000,70000000,https://www.themoviedb.org/movie/582-the-lives-of-others
+248,455661,In a Heartbeat,Esteban Bravo,2017,English,Family,"['Animation', 'Romance', 'Comedy']",4,80.0,928,-,-,https://www.themoviedb.org/movie/455661-in-a-heartbeat
+249,568160,Weathering with You,Makoto Shinkai,2019,Japanese,Animation,"['Drama', 'Fantasy', 'Romance']",112,80.0,1637,-,186965409,https://www.themoviedb.org/movie/568160-weathering-with-you
+250,482321,Ron's Gone Wrong,Sarah Smith,2021,English,Animation,"['ScienceFiction', 'Family', 'Comedy']",107,80.0,1459,-,60000000,https://www.themoviedb.org/movie/482321-ron-s-gone-wrong
+251,26022,My Name Is Khan,Karan Johar,2010,Hindi,Drama,['Romance'],165,80.0,1077,12000000,42345360,https://www.themoviedb.org/movie/26022-my-name-is-khan
+252,11104,Chungking Express,Wong Kar-wai,1994,Cantonese,Drama,"['Comedy', 'Romance']",103,80.0,1306,160000,-,https://www.themoviedb.org/movie/11104-chungking-express
+253,28978,The Circus,Charlie Chaplin,1928,English,Comedy,['Romance'],72,80.0,614,9000000,-,https://www.themoviedb.org/movie/28978-the-circus
+254,938,For a Few Dollars More,Sergio Leone,1965,Italian,Western,[],132,80.0,3262,600000,15000000,https://www.themoviedb.org/movie/938-for-a-few-dollars-more
+255,641,Requiem for a Dream,Darren Aronofsky,2000,English,Crime,['Drama'],102,80.0,8457,4500000,7390108,https://www.themoviedb.org/movie/641-requiem-for-a-dream
+256,426618,Where Hands Touch,Amma Asante,2018,English,War,"['Drama', 'Romance']",122,80.0,457,-,128269,https://www.themoviedb.org/movie/426618-where-hands-touch
+257,310569,The Second Mother,Anna Muylaert,2015,Portuguese,Drama,[],112,80.0,627,-,-,https://www.themoviedb.org/movie/310569-the-second-mother
+258,14,American Beauty,Alan Ball,1999,English,Drama,[],122,80.0,10615,15000000,356296601,https://www.themoviedb.org/movie/14-american-beauty
+259,106646,The Wolf of Wall Street,Martin Scorsese,2013,English,Crime,"['Drama', 'Comedy']",180,80.0,20622,100000000,392000000,https://www.themoviedb.org/movie/106646-the-wolf-of-wall-street
+260,429210,Bingo: The King of the Mornings,Daniel Rezende,2017,Portuguese,Comedy,['Drama'],113,80.0,319,-,-,https://www.themoviedb.org/movie/429210-bingo:-the-king-of-the-mornings
+261,279,Amadeus,Miloš Forman,1984,English,History,"['Music', 'Drama']",160,80.0,3505,18000000,51973029,https://www.themoviedb.org/movie/279-amadeus
+262,9277,The Sting,George Roy Hill,1973,English,Comedy,"['Crime', 'Drama']",129,80.0,2102,5500000,159616327,https://www.themoviedb.org/movie/9277-the-sting
+263,1091,The Thing,John Carpenter,1982,English,Horror,"['Mystery', 'ScienceFiction']",109,80.0,5658,15000000,19629760,https://www.themoviedb.org/movie/1091-the-thing
+264,962,The Gold Rush,Charlie Chaplin,1925,English,Adventure,"['Comedy', 'Drama']",89,80.0,1264,923000,4000000,https://www.themoviedb.org/movie/962-the-gold-rush
+265,550205,Wish Dragon,Chris Appelhans,2021,English,Animation,"['Family', 'Comedy', 'Fantasy']",99,80.0,1001,-,25860000,https://www.themoviedb.org/movie/550205-wish-dragon
+266,595,To Kill a Mockingbird,Robert Mulligan,1962,English,Drama,[],129,80.0,2160,2000000,13129846,https://www.themoviedb.org/movie/595-to-kill-a-mockingbird
+267,634649,Spider-Man: No Way Home,Stan Lee,2021,English,Action,"['Adventure', 'ScienceFiction']",148,80.0,15871,200000000,1916050941,https://www.themoviedb.org/movie/634649-spider-man:-no-way-home
+268,204,The Wages of Fear,Henri-Georges Clouzot,1953,French,Drama,"['Thriller', 'Adventure']",153,80.0,690,-,-,https://www.themoviedb.org/movie/204-the-wages-of-fear
+269,843906,Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog,John R. Dilworth,2021,English,Animation,"['Comedy', 'Mystery', 'Family', 'Fantasy']",72,80.0,330,-,-,https://www.themoviedb.org/movie/843906-straight-outta-nowhere:-scooby-doo!-meets-courage-the-cowardly-dog
+270,110416,Song of the Sea,Tomm Moore,2014,English,Family,"['Animation', 'Fantasy']",93,80.0,1171,-,857522,https://www.themoviedb.org/movie/110416-song-of-the-sea
+271,15,Citizen Kane,Orson Welles,1941,English,Mystery,['Drama'],119,80.0,4626,839727,23218000,https://www.themoviedb.org/movie/15-citizen-kane
+272,521,Dial M for Murder,Alfred Hitchcock,1954,English,Crime,['Thriller'],105,80.0,2103,1400000,3000000,https://www.themoviedb.org/movie/521-dial-m-for-murder
+273,315465,The Boy and the Beast,Mamoru Hosoda,2015,Japanese,Action,"['Adventure', 'Animation', 'Drama', 'Family', 'Fantasy']",119,80.0,1258,-,49714378,https://www.themoviedb.org/movie/315465-the-boy-and-the-beast
+274,522518,A Dog's Journey,W. Bruce Cameron,2019,English,Family,"['Adventure', 'Drama']",109,80.0,1177,-,2520000,https://www.themoviedb.org/movie/522518-a-dog-s-journey
+275,673,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,2004,English,Adventure,['Fantasy'],141,80.0,18627,130000000,789804554,https://www.themoviedb.org/movie/673-harry-potter-and-the-prisoner-of-azkaban
+276,554596,No Manches Frida 2,Nacho G. Velilla,2019,Spanish;,Comedy,[],102,80.0,729,-,-,https://www.themoviedb.org/movie/554596-no-manches-frida-2
+277,522402,Finch,Miguel Sapochnik,2021,English,ScienceFiction,"['Drama', 'Adventure']",115,80.0,2652,2500000,-,https://www.themoviedb.org/movie/522402-finch
+278,3090,The Treasure of the Sierra Madre,John Huston,1948,English,Adventure,"['Drama', 'Western']",126,80.0,941,3800000,4307000,https://www.themoviedb.org/movie/3090-the-treasure-of-the-sierra-madre
+279,800,The Young and the Damned,Luis Buñuel,1950,Spanish;,Crime,['Drama'],77,80.0,380,-,-,https://www.themoviedb.org/movie/800-the-young-and-the-damned
+280,961,The General,Clyde Bruckman,1926,English,Action,"['Adventure', 'Comedy', 'Drama', 'War']",79,80.0,946,750000,1000000,https://www.themoviedb.org/movie/961-the-general
+281,14696,Ugetsu,Kenji Mizoguchi,1953,Japanese,Fantasy,"['Drama', 'Mystery']",96,80.0,435,-,-,https://www.themoviedb.org/movie/14696-ugetsu
+282,28422,Love Exposure,Sion Sono,2009,Japanese,Action,"['Comedy', 'Drama', 'Romance']",237,80.0,346,-,-,https://www.themoviedb.org/movie/28422-love-exposure
+283,11778,The Deer Hunter,Michael Cimino,1978,English,Drama,['War'],183,80.0,3099,15000000,50000000,https://www.themoviedb.org/movie/11778-the-deer-hunter
+284,776503,CODA,Siân Heder,2021,English,Drama,"['Music', 'Romance']",112,80.0,1587,10000000,1600000,https://www.themoviedb.org/movie/776503-coda
+285,424694,Bohemian Rhapsody,Anthony McCarten,2018,English,Music,"['Drama', 'History']",135,80.0,15185,52000000,894027543,https://www.themoviedb.org/movie/424694-bohemian-rhapsody
+286,205596,The Imitation Game,Morten Tyldum,2014,English,History,"['Drama', 'Thriller', 'War']",113,80.0,15122,14000000,233555708,https://www.themoviedb.org/movie/205596-the-imitation-game
+287,438695,Sing 2,Garth Jennings,2021,English,Animation,"['Adventure', 'Comedy']",110,80.0,3272,85000000,406000000,https://www.themoviedb.org/movie/438695-sing-2
+288,378108,In This Corner of the World,Sunao Katabuchi,2016,Japanese,Drama,"['Animation', 'Romance', 'War', 'History']",130,80.0,468,-,19496308,https://www.themoviedb.org/movie/378108-in-this-corner-of-the-world
+289,524,Casino,Martin Scorsese,1995,English,Crime,['Drama'],179,80.0,4760,52000000,116112375,https://www.themoviedb.org/movie/524-casino
+290,12761,Autumn Sonata,Ingmar Bergman,1978,Swedish,Drama,[],93,80.0,442,-,-,https://www.themoviedb.org/movie/12761-autumn-sonata
+291,307,"Rome, Open City",Roberto Rossellini,1945,Italian,Drama,"['History', 'War']",103,80.0,703,20000,1000000,"https://www.themoviedb.org/movie/307-rome,-open-city"
+292,28178,Hachi: A Dog's Tale,Lasse Hallström,2009,English,Drama,['Family'],93,80.0,5849,16000000,46749646,https://www.themoviedb.org/movie/28178-hachi:-a-dog-s-tale
+293,488623,Forgotten,Jang Hang-jun,2017,Korean,Thriller,"['Mystery', 'Drama']",108,80.0,724,-,9900000,https://www.themoviedb.org/movie/488623-forgotten
+294,359724,Ford v Ferrari,James Mangold,2019,English,Drama,"['Action', 'History']",153,80.0,6140,97600000,225508210,https://www.themoviedb.org/movie/359724-ford-v-ferrari
+295,140420,Paperman,John Kahrs,2012,English,Animation,"['Family', 'Romance']",7,80.0,1534,-,-,https://www.themoviedb.org/movie/140420-paperman
+296,13223,Gran Torino,Nick Schenk,2008,English,Drama,[],116,80.0,9368,33000000,269958228,https://www.themoviedb.org/movie/13223-gran-torino
+297,12104,Pink Floyd: The Wall,Alan Parker,1982,English,Music,['Drama'],95,80.0,1232,12000000,22244207,https://www.themoviedb.org/movie/12104-pink-floyd:-the-wall
+298,1059,The Hidden Fortress,Akira Kurosawa,1958,Japanese,Adventure,"['Drama', 'Action', 'Comedy']",139,80.0,467,-,-,https://www.themoviedb.org/movie/1059-the-hidden-fortress
+299,3175,Barry Lyndon,Stanley Kubrick,1975,English,Drama,"['Romance', 'War']",185,80.0,2319,11000000,198992,https://www.themoviedb.org/movie/3175-barry-lyndon
+300,770,Gone with the Wind,George Cukor,1939,English,Drama,"['War', 'Romance']",238,80.0,3400,4000000,402352579,https://www.themoviedb.org/movie/770-gone-with-the-wind
+301,698948,Thirteen Lives,William Nicholson,2022,English,Drama,"['Thriller', 'Action', 'Adventure']",147,80.0,790,55000000,-,https://www.themoviedb.org/movie/698948-thirteen-lives
+302,407806,13th,Ava DuVernay,2016,English,Documentary,[],100,80.0,649,-,-,https://www.themoviedb.org/movie/407806-13th
+303,11658,Tae Guk Gi: The Brotherhood of War,Kang Je-kyu,2004,Korean,Action,"['Adventure', 'Drama', 'History', 'War']",149,80.0,559,1500000,-,https://www.themoviedb.org/movie/11658-tae-guk-gi:-the-brotherhood-of-war
+304,2517,Nobody Knows,Hirokazu Kore-eda,2004,Japanese,Drama,[],141,80.0,375,-,-,https://www.themoviedb.org/movie/2517-nobody-knows
+305,654,On the Waterfront,Elia Kazan,1954,English,Crime,['Drama'],108,80.0,1250,910000,9600000,https://www.themoviedb.org/movie/654-on-the-waterfront
+306,7508,Like Stars on Earth,Amole Gupte,2007,Hindi,Drama,[],165,80.0,903,2600000,28430000,https://www.themoviedb.org/movie/7508-like-stars-on-earth
+307,213,North by Northwest,Ernest Lehman,1959,English,Mystery,['Thriller'],136,80.0,3395,4000000,13275000,https://www.themoviedb.org/movie/213-north-by-northwest
+308,25376,The Secret in Their Eyes,Juan José Campanella,2009,Spanish;,Crime,"['Drama', 'Mystery', 'Thriller', 'Romance']",130,80.0,2104,2000000,33965843,https://www.themoviedb.org/movie/25376-the-secret-in-their-eyes
+309,237791,The Way He Looks,Daniel Ribeiro,2014,Portuguese,Drama,['Romance'],96,80.0,848,2700000,-,https://www.themoviedb.org/movie/237791-the-way-he-looks
+310,94047,My Way,Kang Je-kyu,2011,Korean,Drama,"['Action', 'History', 'War']",137,80.0,302,25500000,16653488,https://www.themoviedb.org/movie/94047-my-way
+311,142061,"Batman: The Dark Knight Returns, Part 2",Jay Oliva,2013,English,ScienceFiction,"['Action', 'Animation', 'Mystery']",78,80.0,1199,3500000,-,"https://www.themoviedb.org/movie/142061-batman:-the-dark-knight-returns,-part-2"
+312,29264,The Exterminating Angel,Luis Buñuel,1962,Spanish;,Comedy,"['Drama', 'Fantasy']",94,80.0,537,-,-,https://www.themoviedb.org/movie/29264-the-exterminating-angel
+313,18438,Castaway on the Moon,Lee Hae-jun,2009,Korean,Drama,"['Comedy', 'Romance']",119,80.0,555,-,-,https://www.themoviedb.org/movie/18438-castaway-on-the-moon
+314,501929,The Mitchells vs. the Machines,Michael Rianda,2021,English,Animation,"['Adventure', 'Comedy']",110,80.0,2200,75000000,-,https://www.themoviedb.org/movie/501929-the-mitchells-vs.-the-machines
+315,1578,Raging Bull,Martin Scorsese,1980,English,Drama,['History'],129,80.0,3520,18000000,23000000,https://www.themoviedb.org/movie/1578-raging-bull
+316,632322,All My Life,Marc Meyers,2020,English,Romance,['Drama'],93,80.0,391,25000000,2000000,https://www.themoviedb.org/movie/632322-all-my-life
+317,479626,Avicii: True Stories,Levan Tsikurishvili,2017,English,Music,['Documentary'],97,80.0,305,-,-,https://www.themoviedb.org/movie/479626-avicii:-true-stories
+318,242828,When Marnie Was There,Hiromasa Yonebayashi,2014,Japanese,Animation,['Drama'],103,80.0,1484,-,34949567,https://www.themoviedb.org/movie/242828-when-marnie-was-there
+319,15244,A Man Escaped,Robert Bresson,1956,French,Thriller,"['Drama', 'War', 'History']",101,80.0,396,-,-,https://www.themoviedb.org/movie/15244-a-man-escaped
+320,947,Lawrence of Arabia,David Lean,1962,English,War,"['History', 'Adventure', 'Drama']",228,80.0,2426,15000000,69995385,https://www.themoviedb.org/movie/947-lawrence-of-arabia
+321,530915,1917,Sam Mendes,2019,English,War,"['Drama', 'Action', 'History']",119,80.0,10387,100000000,374733942,https://www.themoviedb.org/movie/530915-1917
+322,158445,Miracle in Cell No. 7,Lee Hwan-kyung,2013,Korean,Drama,"['Comedy', 'Family']",127,80.0,358,-,80300000,https://www.themoviedb.org/movie/158445-miracle-in-cell-no.-7
+323,1092,The Third Man,Carol Reed,1949,English,Thriller,['Mystery'],104,80.0,1455,-,1226098,https://www.themoviedb.org/movie/1092-the-third-man
+324,667520,A Whisker Away,Junichi Sato,2020,Japanese,Animation,"['Drama', 'Romance', 'Fantasy']",104,80.0,1084,-,-,https://www.themoviedb.org/movie/667520-a-whisker-away
+325,10238,Cries and Whispers,Ingmar Bergman,1972,Swedish,Drama,[],95,80.0,561,400000,-,https://www.themoviedb.org/movie/10238-cries-and-whispers
+326,1580,Rope,Alfred Hitchcock,1948,English,Crime,"['Drama', 'Thriller']",81,80.0,2169,1500000,2200000,https://www.themoviedb.org/movie/1580-rope
+327,691179,Friends: The Reunion,Ben Winston,2021,English,Documentary,[],104,80.0,958,-,-,https://www.themoviedb.org/movie/691179-friends:-the-reunion
+328,11712,Sanjuro,Akira Kurosawa,1962,Japanese,Drama,"['Action', 'Comedy']",96,80.0,463,-,-,https://www.themoviedb.org/movie/11712-sanjuro
+329,24,Kill Bill: Vol. 1,Quentin Tarantino,2003,English,Action,['Crime'],111,80.0,15161,30000000,180906076,https://www.themoviedb.org/movie/24-kill-bill:-vol.-1
+330,360814,Dangal,Nitesh Tiwari,2016,Hindi,Drama,"['Family', 'Comedy', 'Action']",161,80.0,756,10400000,311000000,https://www.themoviedb.org/movie/360814-dangal
+331,20453,3 Idiots,Rajkumar Hirani,2009,Hindi,Drama,['Comedy'],170,80.0,1943,9000000,70000000,https://www.themoviedb.org/movie/20453-3-idiots
+332,10404,Raise the Red Lantern,Zhang Yimou,1991,Chinese,Drama,[],125,80.0,561,-,-,https://www.themoviedb.org/movie/10404-raise-the-red-lantern
+333,627,Trainspotting,Irvine Welsh,1996,English,Drama,['Crime'],94,80.0,8468,4000000,16491080,https://www.themoviedb.org/movie/627-trainspotting
+334,610150,Dragon Ball Super: Super Hero,Akira Toriyama,2022,Japanese,Animation,"['ScienceFiction', 'Action']",99,80.0,2037,-,70000000,https://www.themoviedb.org/movie/610150-dragon-ball-super:-super-hero
+335,10515,Castle in the Sky,Hayao Miyazaki,1986,Japanese,Adventure,"['Fantasy', 'Animation', 'Action', 'Family', 'Romance']",125,80.0,3370,-,5228752,https://www.themoviedb.org/movie/10515-castle-in-the-sky
+336,862,Toy Story,John Lasseter,1995,English,Animation,"['Adventure', 'Family', 'Comedy']",81,80.0,16029,30000000,373554033,https://www.themoviedb.org/movie/862-toy-story
+337,405,La Strada,Federico Fellini,1954,Italian,Drama,[],115,80.0,846,-,-,https://www.themoviedb.org/movie/405-la-strada
+338,458302,"Remi, Nobody's Boy",Antoine Blossier,2018,French,Adventure,"['Family', 'Drama']",109,80.0,353,-,7434840,"https://www.themoviedb.org/movie/458302-remi,-nobody-s-boy"
+339,234,The Cabinet of Dr. Caligari,Hans Janowitz,1920,German,Drama,"['Horror', 'Thriller', 'Crime']",75,80.0,1199,18000,8811,https://www.themoviedb.org/movie/234-the-cabinet-of-dr.-caligari
+340,70,Million Dollar Baby,Clint Eastwood,2004,English,Drama,[],132,80.0,8277,30000000,216763646,https://www.themoviedb.org/movie/70-million-dollar-baby
+341,594634,Close to the Horizon,Tim Trachte,2019,German,Drama,['Romance'],117,80.0,406,-,-,https://www.themoviedb.org/movie/594634-close-to-the-horizon
+342,38286,Three Men and a Leg,Massimo Venier,1997,Italian,Comedy,[],98,80.0,1884,-,-,https://www.themoviedb.org/movie/38286-three-men-and-a-leg
+343,149,Akira,Katsuhiro Otomo,1988,Japanese,Animation,"['ScienceFiction', 'Action']",124,80.0,3318,10000000,553171,https://www.themoviedb.org/movie/149-akira
+344,43949,Flipped,Rob Reiner,2010,English,Romance,['Drama'],89,80.0,2366,14000000,1755212,https://www.themoviedb.org/movie/43949-flipped
+345,801335,Girl in the Basement,Elisabeth Röhm,2021,English,Crime,"['Thriller', 'TVMovie']",88,80.0,438,-,-,https://www.themoviedb.org/movie/801335-girl-in-the-basement
+346,76,Before Sunrise,Richard Linklater,1995,English,Drama,['Romance'],101,80.0,3344,2500000,5987386,https://www.themoviedb.org/movie/76-before-sunrise
+347,527774,Raya and the Last Dragon,Carlos López Estrada,2021,English,Animation,"['Family', 'Fantasy', 'Action', 'Adventure']",107,80.0,5699,100000000,130000000,https://www.themoviedb.org/movie/527774-raya-and-the-last-dragon
+348,640,Catch Me If You Can,Steven Spielberg,2002,English,Drama,['Crime'],141,80.0,13135,52000000,352114312,https://www.themoviedb.org/movie/640-catch-me-if-you-can
+349,76203,12 Years a Slave,Steve McQueen,2013,English,Drama,['History'],134,80.0,9999,20000000,187000000,https://www.themoviedb.org/movie/76203-12-years-a-slave
+350,110,Three Colors: Red,Krzysztof Kieślowski,1994,French,Drama,"['Mystery', 'Romance']",100,80.0,1089,-,-,https://www.themoviedb.org/movie/110-three-colors:-red
+351,3777,Throne of Blood,Akira Kurosawa,1957,Japanese,Drama,['History'],108,79.0,635,-,13422,https://www.themoviedb.org/movie/3777-throne-of-blood
+352,523781,Words on Bathroom Walls,Thor Freudenthal,2020,English,Drama,['Romance'],111,80.0,442,-,-,https://www.themoviedb.org/movie/523781-words-on-bathroom-walls
+353,414419,Kill Bill: The Whole Bloody Affair,Quentin Tarantino,2011,English,Action,"['Crime', 'Thriller']",247,80.0,809,55000000,-,https://www.themoviedb.org/movie/414419-kill-bill:-the-whole-bloody-affair
+354,776305,Belle,Mamoru Hosoda,2021,Japanese,Animation,"['Drama', 'ScienceFiction', 'Music']",122,80.0,506,-,63501160,https://www.themoviedb.org/movie/776305-belle
+355,775,A Trip to the Moon,Georges Méliès,1902,French,Adventure,['ScienceFiction'],15,79.0,1414,5985,-,https://www.themoviedb.org/movie/775-a-trip-to-the-moon
+356,20722,La Maison en Petits Cubes,Kunio Katou,2008,Japanese,Animation,[],12,79.0,377,-,-,https://www.themoviedb.org/movie/20722-la-maison-en-petits-cubes
+357,20271,Divorce Italian Style,Pietro Germi,1961,Italian,Comedy,[],104,79.0,344,-,-,https://www.themoviedb.org/movie/20271-divorce-italian-style
+358,15383,Army of Shadows,Jean-Pierre Melville,1969,French,War,"['Drama', 'Thriller']",145,79.0,498,-,741766,https://www.themoviedb.org/movie/15383-army-of-shadows
+359,455714,Bad Genius,Nattawut Poonpiriya,2017,Thai,Drama,"['Crime', 'Thriller']",130,79.0,666,1839169,42350000,https://www.themoviedb.org/movie/455714-bad-genius
+360,41050,La Notte,Michelangelo Antonioni,1961,Italian,Drama,['Romance'],122,79.0,519,-,-,https://www.themoviedb.org/movie/41050-la-notte
+361,14160,Up,Pete Docter,2009,English,Animation,"['Comedy', 'Family', 'Adventure']",96,79.0,17774,175000000,735099082,https://www.themoviedb.org/movie/14160-up
+362,28971,Limelight,Charlie Chaplin,1952,English,Drama,"['Music', 'Romance']",137,79.0,396,900000,1000000,https://www.themoviedb.org/movie/28971-limelight
+363,21334,Children of Heaven,Majid Majidi,1997,Persian,Drama,['Family'],89,79.0,478,180000,925402,https://www.themoviedb.org/movie/21334-children-of-heaven
+364,11010,The Postman,Michael Radford,1994,Italian,Comedy,"['Drama', 'Romance']",109,79.0,979,-,-,https://www.themoviedb.org/movie/11010-the-postman
+365,745,The Sixth Sense,M. Night Shyamalan,1999,English,Mystery,"['Thriller', 'Drama']",107,79.0,9974,40000000,672806292,https://www.themoviedb.org/movie/745-the-sixth-sense
+366,10242,What Ever Happened to Baby Jane?,Robert Aldrich,1962,English,Drama,"['Horror', 'Thriller']",135,79.0,847,980000,-,https://www.themoviedb.org/movie/10242-what-ever-happened-to-baby-jane?
+367,8290,Don't Look Now... We're Being Shot At!,Gérard Oury,1966,French,Comedy,['War'],132,79.0,1093,-,-,https://www.themoviedb.org/movie/8290-don-t-look-now...-we-re-being-shot-at!
+368,5925,The Great Escape,John Sturges,1963,English,Adventure,"['Drama', 'History', 'Thriller', 'War']",173,79.0,2077,4000000,11744471,https://www.themoviedb.org/movie/5925-the-great-escape
+369,585511,Luck,Kiel Murray,2022,English,Animation,"['Adventure', 'Comedy', 'Fantasy']",105,79.0,920,-,-,https://www.themoviedb.org/movie/585511-luck
+370,556901,Teen Titans Go! vs. Teen Titans,Jeff Mednikow,2019,English,Action,['Animation'],76,79.0,395,-,-,https://www.themoviedb.org/movie/556901-teen-titans-go!-vs.-teen-titans
+371,573164,An Egg Rescue,Rodolfo Riva Palacio Alatriste,2021,Spanish;,Animation,['Comedy'],89,79.0,324,-,3500000,https://www.themoviedb.org/movie/573164-an-egg-rescue
+372,23128,The Cove,Louie Psihoyos,2009,English,Documentary,[],92,79.0,517,-,1162422,https://www.themoviedb.org/movie/23128-the-cove
+373,152532,Dallas Buyers Club,Jean-Marc Vallée,2013,English,Drama,['History'],117,79.0,7581,5000,55736588,https://www.themoviedb.org/movie/152532-dallas-buyers-club
+374,3083,Mr. Smith Goes to Washington,Frank Capra,1939,English,Comedy,['Drama'],129,79.0,834,1500000,9600000,https://www.themoviedb.org/movie/3083-mr.-smith-goes-to-washington
+375,33,Unforgiven,David Webb Peoples,1992,English,Western,[],130,79.0,3604,14400000,159157447,https://www.themoviedb.org/movie/33-unforgiven
+376,9323,Ghost in the Shell,Mamoru Oshii,1995,Japanese,Action,"['Animation', 'ScienceFiction']",83,79.0,2696,3000000,515905,https://www.themoviedb.org/movie/9323-ghost-in-the-shell
+377,6977,No Country for Old Men,Ethan Coen,2007,English,Crime,"['Drama', 'Thriller']",122,79.0,10149,25000000,171627166,https://www.themoviedb.org/movie/6977-no-country-for-old-men
+378,81,Nausicaä of the Valley of the Wind,Hayao Miyazaki,1984,Japanese,Adventure,"['Animation', 'Fantasy']",117,79.0,2881,1000000,3301446,https://www.themoviedb.org/movie/81-nausicaä-of-the-valley-of-the-wind
+379,78,Blade Runner,Ridley Scott,1982,English,ScienceFiction,"['Drama', 'Thriller']",118,79.0,11920,28000000,41722424,https://www.themoviedb.org/movie/78-blade-runner
+380,653567,Miss Americana,Lana Wilson,2020,English,Documentary,['Music'],85,79.0,451,-,-,https://www.themoviedb.org/movie/653567-miss-americana
+381,316029,The Greatest Showman,Jenny Bicks,2017,English,Drama,[],105,79.0,8381,84000000,432844677,https://www.themoviedb.org/movie/316029-the-greatest-showman
+382,150540,Inside Out,Pete Docter,2015,English,Animation,"['Family', 'Adventure', 'Drama', 'Comedy']",95,79.0,18380,175000000,857611174,https://www.themoviedb.org/movie/150540-inside-out
+383,7857,Amarcord,Federico Fellini,1973,Italian,Comedy,['Drama'],123,79.0,903,-,-,https://www.themoviedb.org/movie/7857-amarcord
+384,3034,Young Frankenstein,Mel Brooks,1974,English,Comedy,[],106,79.0,2672,2800000,86273333,https://www.themoviedb.org/movie/3034-young-frankenstein
+385,662,La Jetée,Chris Marker,1962,French,Romance,['ScienceFiction'],28,79.0,697,-,-,https://www.themoviedb.org/movie/662-la-jetée
+386,197,Braveheart,Randall Wallace,1995,English,Action,"['Drama', 'History', 'War']",178,79.0,8704,72000000,213216216,https://www.themoviedb.org/movie/197-braveheart
+387,491480,The Boy Who Harnessed the Wind,Chiwetel Ejiofor,2019,English,Drama,"['History', 'Family']",113,79.0,1365,-,-,https://www.themoviedb.org/movie/491480-the-boy-who-harnessed-the-wind
+388,329,Jurassic Park,Michael Crichton,1993,English,Adventure,['ScienceFiction'],127,79.0,14125,63000000,920100000,https://www.themoviedb.org/movie/329-jurassic-park
+389,334533,Captain Fantastic,Matt Ross,2016,English,Adventure,['Drama'],118,79.0,5660,5000000,23123592,https://www.themoviedb.org/movie/334533-captain-fantastic
+390,17295,The Battle of Algiers,Gillo Pontecorvo,1966,Italian,Drama,"['War', 'History']",121,79.0,563,800000,964028,https://www.themoviedb.org/movie/17295-the-battle-of-algiers
+391,1646,Freedom Writers,Richard LaGravenese,2007,English,Crime,['Drama'],123,79.0,1878,21000000,43095175,https://www.themoviedb.org/movie/1646-freedom-writers
+392,682110,My Octopus Teacher,James Reed,2020,English,Documentary,[],84,79.0,700,-,-,https://www.themoviedb.org/movie/682110-my-octopus-teacher
+393,24167,Two Women,Vittorio De Sica,1960,Italian,Drama,['War'],100,79.0,439,-,-,https://www.themoviedb.org/movie/24167-two-women
+394,588228,The Tomorrow War,Chris McKay,2021,English,Action,"['ScienceFiction', 'Adventure']",138,79.0,5963,200000000,-,https://www.themoviedb.org/movie/588228-the-tomorrow-war
+395,10674,Mulan,Barry Cook,1998,English,Animation,"['Family', 'Adventure']",88,79.0,8352,90000000,304320254,https://www.themoviedb.org/movie/10674-mulan
+396,522212,Just Mercy,Destin Daniel Cretton,2019,English,Drama,"['Crime', 'History']",137,79.0,1821,25000000,50401502,https://www.themoviedb.org/movie/522212-just-mercy
+397,37797,Whisper of the Heart,Aoi Hiiragi,1995,Japanese,Animation,"['Drama', 'Family']",111,79.0,1556,-,-,https://www.themoviedb.org/movie/37797-whisper-of-the-heart
+398,85,Raiders of the Lost Ark,Steven Spielberg,1981,English,Adventure,['Action'],115,79.0,10486,18000000,389925971,https://www.themoviedb.org/movie/85-raiders-of-the-lost-ark
+399,10386,The Iron Giant,Brad Bird,1999,English,Family,"['Animation', 'ScienceFiction', 'Drama']",86,79.0,4728,70000000,23159305,https://www.themoviedb.org/movie/10386-the-iron-giant
